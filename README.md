@@ -23,10 +23,6 @@
 
 ---
 
-## 🔗 Connect with me:
-
----
-
 ## 🛠️ Languages and Tools:
 
 ### Programming Languages
