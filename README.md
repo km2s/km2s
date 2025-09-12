@@ -12,17 +12,6 @@
 
 </div>
 
-<div align="center"> 
-<a href="https://www.instagram.com/k4zsl" target="_blank">
-<img align="center" height="50" width="50" src="https://github.com/km2s/km2s/assets/168300187/ff37cbb4-b8a3-4fd6-9a2f-77a4a8748865">
-</a>
-
-<a href="mailto:karinemsilva245@gmail.com">
-<img align="center" height="60" width="60" src="https://github.com/km2s/km2s/assets/168300187/f150e844-ef31-4041-9c3b-ed615badf730">
-</a> 
-
-</div>
-
 <div align="center">
 
 ![Ashutosh's github activity graph](https://github.com/km2s/km2s/assets/168300187/edac9ebe-b968-4100-af69-63cd404388bd)
