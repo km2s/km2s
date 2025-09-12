@@ -1,10 +1,3 @@
-# GitHub metrics
-**lowlighter/metrics**
-
-Weird or what? 🤔
-
-🔗 https://metrics.lecoq.io  
-⚙️ Developer Program Member
 
 ---
 
@@ -18,13 +11,13 @@ Weird or what? 🤔
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=km2s&theme=github-compact)
 
 </div>
 
 <div align="center">
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=km2s&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
