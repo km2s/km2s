@@ -1,97 +1,105 @@
-<img width=100% bottom=50px src="https://github.com/km2s/km2s/assets/168300187/23685acf-60d0-4877-84c7-e779ccecb1e7"/>
-<br>
-<br>
+# GitHub metrics
+**lowlighter/metrics**
 
+Weird or what? 🤔
 
-<br>
-<br>
+🔗 https://metrics.lecoq.io  
+⚙️ Developer Program Member
 
-<div align="center">
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=km2s&theme=shadow-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![Ashutosh's github activity graph](https://github.com/km2s/km2s/assets/168300187/edac9ebe-b968-4100-af69-63cd404388bd)
-
-</div>
-
-<br>
-<br>
-
-<div align="center"> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=km2s&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-<br>
-
-### Main Skills
-
-<br>
-
-<img align="center" height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/6e071096-1a2e-44c6-9a1d-7607a3c1eeb4">
-
-<img align="center" height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/a8c61a2b-c3a1-4dcb-b4e3-2a3061311868">
-
-<img align="center"  height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/a46f166a-1f1c-44be-a39b-f771231af543">
-
-<img align="center"  height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/940de49b-da35-4db6-bd9d-e82a43fc7ea8">
-
-<img align="center" height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/d9e3ed6e-9d4b-47d8-ac2c-84196c83ce3e">
-
-<img align="center"  height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/76351f9e-fdcd-4db9-855a-c7e02f1a45d6">
-
-<img align="center"  height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/905920ee-fe01-4739-8cf5-3ee6096f81a9">
-
-<img align="center"  height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/53b20967-d065-4916-9fdb-d8a52c98c758">
-
-</div>
-
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
-
-
-<h2 align="center"> Studying in this moment: </h2>
-
-
-<div align="center"> 
-
-<img align="center"  height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/767a80f3-6d7c-4de9-a79a-78a47d60741e">
-
-<img align="center"  height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/c06be6d2-5515-496e-a146-866d9df0a68c">
-
-<img align="center"  height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/922267d6-c21f-402d-bd30-16492b80a6e0">
-
-<img align="center"  height="80" width="80" src="https://github.com/km2s/km2s/assets/168300187/f8ad8cd4-2567-4f6a-8067-13a22b3cbb97">
-
-<img align="center"  height="90" width="90" src="https://github.com/km2s/km2s/assets/168300187/4cabdc0c-c236-4ad6-b253-4e05ceb806f9">
-
-<img align="center"  height="90" width="90" src="https://github.com/km2s/km2s/assets/168300187/05262568-48ba-46f7-88e8-647d73a583e7">
-
-</div>
-
+## 📊 GitHub Stats
 
 <div align="center">
   
-<br>
-<br>
-<br>
-<br>
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkm2s&s=40&c=4313b4&bg=00000000&no=2&ff=digi&tb=Visitors%3A&ta=%3C3"/></p> 
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SEU_USERNAME&theme=shadow-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
-<br>
-<br> 
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github-compact)
 
+</div>
 
-<img width=100% src="https://github.com/km2s/km2s/assets/168300187/44304db8-50a4-4cf7-a0a1-1c247c52580d"/>
+<div align="center">
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+---
+
+## 🛠️ Main Skills
+
+<div align="center">
+  
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+</div>
+
+---
+
+## 📚 Studying in this moment:
+
+<div align="center">
+  
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+<img align="center" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+<img align="center" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+
+</div>
+
+---
+
+<div align="center">
+  
+![Visitor Count](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FSEU_USERNAME&s=40&c=4313b4&bg=00000000&no=2&ff=digi&tb=Visitors%3A&ta=%3C3)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎵 Suggested tracks
+**From Apple Music**
+
+🎧 My day is ruined ! - *Night Lovell*  
+🎧 Piramide - *Alee*
+
+</div>
+
+---
+
+<div align="center">
+  
+**Most used languages:**  
+🟡 JavaScript • 🟣 C++ • 🟡 Python • 🔴 TypeScript • 🔴 C  
+Vue • PowerShell
+
+</div>
+
+---
+
+<div align="center">
+  
+**📋 1 Project**  
+Roadmap and todos (lowlighter/metrics)  
+Updated less than 1 day ago • 19 done • 1 doing • 8 todo
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
