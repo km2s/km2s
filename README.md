@@ -1,10 +1,7 @@
-# GitHub metrics
-**lowlighter/metrics**
 
 Weird or what? 🤔
 
-🔗 https://metrics.lecoq.io  
-⚙️ Developer Program Member
+⚙️ Developer 
 
 ---
 
@@ -87,18 +84,8 @@ Weird or what? 🤔
 <div align="center">
   
 **Most used languages:**  
-🟡 JavaScript • 🟣 C++ • 🟡 Python • 🔴 TypeScript • 🔴 C  
+🟡 JavaScript • 🟣 Typescript • 🟡 Vue • 🔴 Node • 🔴 Next  • 🔴 Nest • 🔴 Python • 🔴 React    
 Vue • PowerShell
-
-</div>
-
----
-
-<div align="center">
-  
-**📋 1 Project**  
-Roadmap and todos (lowlighter/metrics)  
-Updated less than 1 day ago • 19 done • 1 doing • 8 todo
 
 </div>
 
