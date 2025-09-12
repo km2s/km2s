@@ -18,7 +18,9 @@ Weird or what? 🤔
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github-compact)
+
+![Ashutosh's github activity graph](https://github.com/km2s/km2s/assets/168300187/edac9ebe-b968-4100-af69-63cd404388bd)
+
 
 </div>
 
