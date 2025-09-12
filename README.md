@@ -2,7 +2,6 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=45&duration=4000&pause=1000&color=A358F7&center=true&vCenter=true&random=false&width=1000&lines=Hello!!+My+name+is+Karine;I'm+21y+old+;I'm+a+Front+End+Developer;I'm+from+Brazil;welcome+%3C3)](https://git.io/typing-svg)
 
 <br>
 <br>
