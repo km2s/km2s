@@ -15,12 +15,6 @@
 
 </div>
 
-<div align="center">
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=km2s&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 ---
 
 ## 🛠️ Languages and Tools:
