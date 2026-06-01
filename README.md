@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D1A?style=flat-square&logo=linkedin&logoColor=A855F7)](https://linkedin.com/in/SEU_LINKEDIN)
 &nbsp;
 [![Email](https://img.shields.io/badge/karinemsilva.dev%40gmail.com-0D0D1A?style=flat-square&logo=gmail&logoColor=A855F7)](mailto:karinemsilva.dev@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/@km2s-0D0D1A?style=flat-square&logo=github&logoColor=A855F7)](https://github.com/km2s)
 &nbsp;
 ![Views](https://komarev.com/ghpvc/?username=km2s&color=A855F7&style=flat-square&label=visitors)
@@ -41,8 +42,8 @@ const karine = {
 ## 📊 github stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=km2s&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D0D1A&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=km2s&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=E9D5FF&langs_count=6"/>
+  <img height="175em" src="https://github-readme-stats-iota-one-43.vercel.app/api?username=km2s&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D0D1A&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF&cache_seconds=86400"/>
+  <img height="175em" src="https://github-readme-stats-iota-one-43.vercel.app/api/top-langs/?username=km2s&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=E9D5FF&langs_count=6&cache_seconds=86400"/>
 </div>
 
 <div align="center">
