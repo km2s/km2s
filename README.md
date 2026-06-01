@@ -1,7 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,50:6B21A8,100:C084FC&height=220&section=header&text=Karine%20Miranda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50&descSize=20&descColor=E9D5FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,30:4B0082,60:7B2FBE,100:C084FC&height=200&section=header&animation=twinkling&fontColor=ffffff"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=Building+things+for+the+web+%F0%9F%92%BB;Turning+coffee+into+code+%E2%98%95;Frontend+%7C+Backend+%7C+Always+learning;Clean+code+%2B+great+UX+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=%3C+KARINE+MIRANDA+%2F%3E;Full+Stack+Developer;Loading...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;Player+1+-+Always+learning+%F0%9F%8E%AE" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario.gif" height="35px"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario.gif" height="35px"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario.gif" height="35px"/>
 </div>
 
 <br/>
@@ -25,11 +35,27 @@ const karine = {
 
 ---
 
+## 🎮 contributions game
+
+> *a cobrinha está comendo minhas contribuições...*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/km2s/km2s/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/km2s/km2s/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake game on contributions" src="https://raw.githubusercontent.com/km2s/km2s/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+<br/>
+
+---
+
 ## 📊 github stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=km2s&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D0D1A&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=km2s&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=E9D5FF&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=km2s&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D0D1A&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=km2s&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=E9D5FF&langs_count=6"/>
 </div>
 
 <div align="center">
@@ -37,7 +63,7 @@ const karine = {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=km2s&theme=tokyo-night&bg_color=0D0D1A&color=A855F7&line=7B2FBE&point=C084FC&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=km2s&theme=tokyo-night&bg_color=0D0D1A&color=A855F7&line=7B2FBE&point=C084FC&hide_border=true&area=true&area_color=4B0082"/>
 </div>
 
 <br/>
@@ -130,6 +156,7 @@ const karine = {
 > *because good code deserves a good soundtrack*
 
 🎧 **My day is ruined !** — *Night Lovell*
+🎧 **Piramide** — *Alee*
 
 </div>
 
