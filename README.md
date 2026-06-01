@@ -4,8 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D1A?style=flat-square&logo=linkedin&logoColor=A855F7)](https://linkedin.com/in/SEU_LINKEDIN)
 &nbsp;
-[![Email](https://img.shields.io/badge/karinemsilva.dev%gmail.com-0D0D1A?style=flat-square&logo=gmail&logoColor=A855F7)](mailto:karinemsilva245@gmail.com)
-&nbsp;
+[![Email](https://img.shields.io/badge/karinemsilva.dev%40gmail.com-0D0D1A?style=flat-square&logo=gmail&logoColor=A855F7)](mailto:karinemsilva.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/@km2s-0D0D1A?style=flat-square&logo=github&logoColor=A855F7)](https://github.com/km2s)
 &nbsp;
 ![Views](https://komarev.com/ghpvc/?username=km2s&color=A855F7&style=flat-square&label=visitors)
