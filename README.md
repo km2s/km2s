@@ -64,7 +64,7 @@ const karine = {
 
 # 🚀 Featured Projects
 
-## 🎲 Saga RPG
+## 🎲 Saga RPG -> https://saga-ruddy.vercel.app/dashboard
 
 Full-stack RPG platform featuring:
 
@@ -85,7 +85,7 @@ Full-stack RPG platform featuring:
 
 ---
 
-## 🛍️ Beauty Store
+## 🛍️ Beauty Store -> https://beauty-store-rose.vercel.app/
 
 AI-powered e-commerce platform featuring:
 
