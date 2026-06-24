@@ -1,70 +1,64 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,30:4B0082,60:7B2FBE,100:C084FC&height=220&section=header&text=Karine%20Miranda&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Open%20to%20Global%20Opportunities&descAlignY=58&descSize=18&descColor=E9D5FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,30:4B0082,60:7B2FBE,100:C084FC&height=220&section=header&text=Karine%20Miranda&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=58&descSize=18&descColor=E9D5FF"/>
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D1A?style=for-the-badge&logo=vercel&logoColor=A855F7)](https://km2s.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D1A?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://linkedin.com/in/karinems)
-[![Email](https://img.shields.io/badge/Email-0D0D1A?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:karinemsilva.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0D0D1A?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:karinemsilva245@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0D1A?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/km2s)
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Karine
+# Hi, I'm Karine
 
-Full Stack Engineer based in Brazil 🇧🇷
+Full Stack Engineer based in Rio de Janeiro, Brazil 🇧🇷
 
 Currently:
 
-🏢 Software Development Intern @ Globo
+ Full Stack Engineer @ Globo
 
-🎓 Computer Science Student
+ Computer Science — IBMR
 
-🚀 Building Full Stack, AI-powered and Developer-focused applications
+ Building Full Stack, AI-powered and Developer-focused applications
 
-🌎 Open to Remote Opportunities Worldwide
+ Open to Remote Opportunities Worldwide
 
 ---
 
-## ✨ About Me
+##  About Me
 
 ```ts
 const karine = {
   role: "Full Stack Engineer",
+  company: "Globo",
+  location: "Rio de Janeiro, BR",
 
-  frontend: [
-    "Vue.js",
-    "React",
-    "Next.js",
-    "TypeScript"
-  ],
+  globoStack: ["Vue.js", "Vuetify", "TypeScript"],
 
-  backend: [
-    "Node.js",
-    "Python",
-    "FastAPI"
-  ],
+  personalStack: ["Next.js", "FastAPI", "PostgreSQL"],
 
-  database: [
-    "PostgreSQL",
-    "MongoDB",
-    "MySQL"
-  ],
+  languages: ["TypeScript", "Python", "JavaScript"],
+
+  ai: ["OpenAI", "Ollama"],
 
   interests: [
-    "Artificial Intelligence",
-    "Developer Tools",
     "Software Architecture",
-    "Cloud Computing"
-  ]
+    "AI & LLMs",
+    "Developer Tools",
+    "Full Stack Engineering",
+  ],
+
+  openTo: "Remote worldwide",
 };
 ```
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🎲 Saga RPG -> https://saga-ruddy.vercel.app/dashboard
+##  Saga RPG → [saga-ruddy.vercel.app](https://saga-ruddy.vercel.app/dashboard)
 
 Full-stack RPG platform featuring:
 
@@ -74,18 +68,11 @@ Full-stack RPG platform featuring:
 - Virtual Tabletop
 - Real-time Features
 
-**Stack**
-
-`Next.js`
-`TypeScript`
-`PostgreSQL`
-`Prisma`
-`Supabase`
-`Discord.js`
+**Stack:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Supabase` `Discord.js`
 
 ---
 
-## 🛍️ Beauty Store -> https://beauty-store-rose.vercel.app/
+##  Beauty Store → [beauty-store-rose.vercel.app](https://beauty-store-rose.vercel.app/)
 
 AI-powered e-commerce platform featuring:
 
@@ -94,47 +81,34 @@ AI-powered e-commerce platform featuring:
 - Affiliate Program
 - Payment Processing
 
-**Stack**
-
-`Next.js`
-`React`
-`FastAPI`
-`Python`
-`PostgreSQL`
-`OpenAI`
+**Stack:** `Next.js` `React` `FastAPI` `Python` `PostgreSQL` `OpenAI`
 
 ---
 
-## 🤖 revctl
+##  revctl
 
 Local AI code review CLI.
 
-Features:
-
 - Git Diff Analysis
-- Local LLM Support
+- Local LLM Support via Ollama
 - Automated Reviews
 - Security Checks
 
-**Stack**
-
-`Python`
-`Git`
-`Ollama`
+**Stack:** `Python` `Git` `Ollama`
 
 ---
 
-# 📈 Highlights
+#  Highlights
 
 <table>
 <tr>
 <td align="center">
 
-🏢
+
 
 ### Experience
 
-Software Development Intern
+Full Stack Engineer
 
 **Globo**
 
@@ -142,21 +116,19 @@ Software Development Intern
 
 <td align="center">
 
-💻
+
 
 ### Projects
 
 Full Stack Applications
 
-AI Tools
-
-Developer Tools
+AI Tools · Developer Tools
 
 </td>
 
 <td align="center">
 
-🌎
+
 
 ### Availability
 
@@ -171,24 +143,24 @@ Worldwide
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,nestjs" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql" />
 </p>
 
 ### Cloud & DevOps
@@ -199,16 +171,16 @@ Worldwide
 
 ---
 
-# 🔭 Currently Building
+#  Currently Building
 
-- 🎲 Expanding Saga RPG Platform
-- 🤖 AI-powered Developer Tools
-- ⚡ Exploring Distributed Systems
-- ☁️ Learning more about AI Infrastructure
+-  Expanding Saga RPG Platform
+-  AI-powered Developer Tools
+-  Exploring Distributed Systems
+-  Learning more about AI Infrastructure
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <div align="center">
 
@@ -222,7 +194,7 @@ Worldwide
 
 <div align="center">
 
-### Let's build something amazing together 🚀
+### Let's build something amazing together 
 
 </div>
 
