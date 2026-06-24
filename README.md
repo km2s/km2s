@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D1A?style=for-the-badge&logo=vercel&logoColor=A855F7)](https://km2s.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D1A?style=for-the-badge&logo=vercel&logoColor=A855F7)](https://portfolio-ten-phi-9wit0eooco.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D1A?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://linkedin.com/in/karinems)
 [![Email](https://img.shields.io/badge/Email-0D0D1A?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:karinemsilva245@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0D1A?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/km2s)
