@@ -1,201 +1,159 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,30:4B0082,60:7B2FBE,100:C084FC&height=220&section=header&text=Karine%20Miranda&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=58&descSize=18&descColor=E9D5FF"/>
+<img width="100%" src="./assets/banner.png" alt="Karine Miranda — Full Stack Engineer, Rio de Janeiro"/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D1A?style=for-the-badge&logo=vercel&logoColor=A855F7)](https://portfolio-ten-phi-9wit0eooco.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D1A?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://linkedin.com/in/karinems)
-[![Email](https://img.shields.io/badge/Email-0D0D1A?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:karinemsilva245@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D1A?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/km2s)
+[![Portfolio](https://img.shields.io/badge/Portfolio-96345A?style=for-the-badge&logo=vercel&logoColor=FFBFD0)](https://portfolio-ten-phi-9wit0eooco.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-96345A?style=for-the-badge&logo=linkedin&logoColor=FFBFD0)](https://linkedin.com/in/karinems)
+[![Email](https://img.shields.io/badge/Email-96345A?style=for-the-badge&logo=gmail&logoColor=FFBFD0)](mailto:karinemsilva245@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-96345A?style=for-the-badge&logo=github&logoColor=FFBFD0)](https://github.com/km2s)
 
 </div>
 
----
+<img width="100%" src="./assets/divider.png"/>
 
-# Hi, I'm Karine
+<table>
+<tr>
+<td width="180" valign="top"><img width="170" src="./assets/avatar.png" alt="Karine em pixel art, levando um susto"/></td>
+<td valign="top">
 
-Full Stack Engineer based in Rio de Janeiro, Brazil 🇧🇷
+## Oi! I'm Karine
 
-Currently:
+Full Stack Engineer straight from **Rio de Janeiro**, usually followed by **Manny**, my yorkshire and official code reviewer.
 
- Full Stack Engineer @ Globo
+I build products end to end: well-architected backends, carefully crafted interfaces and AI where it actually helps.
 
- Computer Science — IBMR
+**Computer Science** — IBMR · **Systems Analysis & Development** — Veiga de Almeida
 
- Building Full Stack, AI-powered and Developer-focused applications
-
- Open to Remote Opportunities Worldwide
-
----
-
-##  About Me
+</td>
+</tr>
+</table>
 
 ```ts
 const karine = {
   role: "Full Stack Engineer",
-  company: "Globo",
-  location: "Rio de Janeiro, BR",
+  basedIn: "Rio de Janeiro, BR",
+  sidekick: "Manny (yorkshire)",
 
-  globoStack: ["Vue.js", "Vuetify", "TypeScript"],
+  daily: ["Vue.js", "Vuetify", "TypeScript"],
+  sideProjects: ["Next.js", "FastAPI", "PostgreSQL", "Spring Boot"],
+  languages: ["TypeScript", "Python", "Java", "JavaScript"],
+  ai: ["OpenAI", "Ollama", "OpenRouter"],
 
-  personalStack: ["Next.js", "FastAPI", "PostgreSQL"],
-
-  languages: ["TypeScript", "Python", "JavaScript"],
-
-  ai: ["OpenAI", "Ollama"],
-
-  interests: [
-    "Software Architecture",
-    "AI & LLMs",
-    "Developer Tools",
-    "Full Stack Engineering",
-  ],
-
-  openTo: "Remote worldwide",
+  learning: ["C/C++", "Flutter", "Data Science", "PyTorch"],
 };
 ```
 
----
+<img width="100%" src="./assets/divider.png"/>
 
-#  Featured Projects
-
-##  Saga RPG → [saga-ruddy.vercel.app](https://saga-ruddy.vercel.app/dashboard)
-
-Full-stack RPG platform featuring:
-
-- Discord Authentication
-- Campaign Management
-- Character Sheets
-- Virtual Tabletop
-- Real-time Features
-
-**Stack:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Supabase` `Discord.js`
-
----
-
-##  Beauty Store → [beauty-store-rose.vercel.app](https://beauty-store-rose.vercel.app/)
-
-AI-powered e-commerce platform featuring:
-
-- Product Recommendations
-- Loyalty System
-- Affiliate Program
-- Payment Processing
-
-**Stack:** `Next.js` `React` `FastAPI` `Python` `PostgreSQL` `OpenAI`
-
----
-
-##  revctl
-
-Local AI code review CLI.
-
-- Git Diff Analysis
-- Local LLM Support via Ollama
-- Automated Reviews
-- Security Checks
-
-**Stack:** `Python` `Git` `Ollama`
-
----
-
-#  Highlights
+## Cardápio — featured projects
 
 <table>
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
+### 01 · [Saga RPG](https://saga-ruddy.vercel.app/)
+![](https://img.shields.io/badge/No%20ar-56633F?style=flat-square&labelColor=56633F&color=56633F)
 
+Tabletop RPG campaign manager: character sheets for 5+ systems, virtual table with fog of war, real-time sync and a Discord bot.
 
-### Experience
-
-Full Stack Engineer
-
-**Globo**
-
-</td>
-
-<td align="center">
-
-
-
-### Projects
-
-Full Stack Applications
-
-AI Tools · Developer Tools
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Supabase` `Discord.js`
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center">
+### 02 · [Marcou](https://marcou-mocha.vercel.app/)
+![](https://img.shields.io/badge/No%20ar-56633F?style=flat-square)
 
+Multi-tenant scheduling SaaS with 3-layer anti-double-booking — proven by a race-condition test.
 
-
-### Availability
-
-Remote
-
-Worldwide
+`Java 21` `Spring Boot` `React 19` `PostgreSQL` `Testcontainers`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 03 · [Beauty Store](https://beauty-store-rose.vercel.app/)
+![](https://img.shields.io/badge/Em%20desenvolvimento-EAB23A?style=flat-square)
+
+AI-powered beauty e-commerce: recommendation quiz, MercadoPago payments, loyalty points and affiliate program.
+
+`Next.js` `FastAPI` `Python` `PostgreSQL` `OpenAI`
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · [revctl](https://github.com/km2s/revctl)
+![](https://img.shields.io/badge/Open%20source-E0668F?style=flat-square)
+
+Local AI code review in your terminal via Ollama — diff, commit or branch. No API key, no cloud.
+
+`Python` `Ollama` `Typer` `Rich`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 · [repoaudit](https://github.com/km2s/repoaudit)
+![](https://img.shields.io/badge/Open%20source-E0668F?style=flat-square)
+
+Health check CLI for Node/TS repos: outdated deps, circular imports, unused deps & exports, env vars.
+
+`TypeScript` `Node.js` `ts-morph` `madge`
+
+</td>
+<td width="50%" valign="top">
+
+### 06 · [VOID Bot](https://github.com/km2s/void-bot)
+![](https://img.shields.io/badge/No%20ar-56633F?style=flat-square)
+
+Modular Discord bot with an AI persona, music queue, gacha-style cards, community events and tickets.
+
+`Node.js` `Discord.js` `OpenRouter` `Railway`
+
+</td>
 </tr>
 </table>
 
----
+<img width="100%" src="./assets/divider.png"/>
 
-#  Tech Stack
+## Postcards from the journey
 
-### Frontend
+| | |
+|:--|:--|
+| **2022** | Started Computer Science (IBMR) and Systems Analysis (Veiga de Almeida) — at the same time |
+| **jun 2022** | Equinix — Young Apprentice |
+| **2023** | First full stack projects: React, Node.js, PostgreSQL |
+| **sep 2024** | Globo — Development Intern (until jul 2026) |
+| **2026** | Shipped my own products: VOID Bot, Beauty Store, revctl, Saga RPG, Marcou |
+| **aug 2026** | Hired by **Insi** |
 
-<p>
-<img src="https://skillicons.dev/icons?i=vue,react,nextjs,typescript,javascript,html,css,tailwind" />
-</p>
+<img width="100%" src="./assets/divider.png"/>
 
-### Backend
+## Toolbox
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=vue,react,nextjs,typescript,javascript,html,css&theme=light" /></p>
+<p><img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,nodejs&theme=light" /></p>
+<p><img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql,docker,git&theme=light" /></p>
 
-### Database
+<img width="100%" src="./assets/divider.png"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,git" />
-</p>
-
----
-
-#  Currently Building
-
--  Expanding Saga RPG Platform
--  AI-powered Developer Tools
--  Exploring Distributed Systems
--  Learning more about AI Infrastructure
-
----
-
-#  GitHub Stats
+## Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=km2s&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=km2s&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=km2s&show_icons=true&hide_border=true&bg_color=FFF0F3&title_color=96345A&text_color=201E1D&icon_color=E0668F&border_radius=24"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=km2s&layout=compact&hide_border=true&bg_color=FFF0F3&title_color=96345A&text_color=201E1D&border_radius=24"/>
 
 </div>
-
----
 
 <div align="center">
 
-### Let's build something amazing together 
+### Bora construir algo juntos?
+
+[karinemsilva245@gmail.com](mailto:karinemsilva245@gmail.com)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:6B21A8,100:1A0533&height=130&section=footer"/>
+<img width="100%" src="./assets/footer.png" alt="Karine correndo atrás do Manny no calçadão"/>
